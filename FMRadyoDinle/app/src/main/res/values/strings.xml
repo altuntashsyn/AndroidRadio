@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hit Türkçe Radyo</string>
+    <string name="radyolar">FM Radio</string>
+    <string name="radyoAra">Radyo Ara</string>
+    <string name="lutfenBekleyiniz">Yükleniyor</string>
+</resources>
